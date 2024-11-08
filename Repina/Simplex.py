@@ -1,4 +1,4 @@
-import pandas as pd #необходимо для оформления симлекс-таблиц
+# import pandas as pd #необходимо для оформления симлекс-таблиц
 import copy
 import scipy
 import scipy.optimize
